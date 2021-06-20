@@ -1,4 +1,4 @@
-from post import Postgres
+from easypost import Postgres
 from icecream import ic
 
 sql = Postgres()
